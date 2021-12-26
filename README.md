@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OpenReadMe
+- 👋 Hi, I’m https://github.com/OpenReadMe
 - 👀 I’m interested in having fun with friends .
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate at mail@example.com
